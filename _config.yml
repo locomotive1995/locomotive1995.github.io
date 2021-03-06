@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "JongHyeok Coding Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Raymond"
 description              : "My Motivation site"
 url                      : "https://locomotive1995.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
